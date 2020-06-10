@@ -1,0 +1,9 @@
+{
+	"pages": [
+		"https://en.wikipedia.org/wiki/Foobar",
+		"https://en.wikipedia.org/wiki/Barfoot"
+	],
+	"tests": [
+		"titleCheck"
+	]
+}

@@ -1,0 +1,6 @@
+{
+	"titleCheck": {
+		"describe": "Checks the title of the page",
+		"it": "Should have appropriate length set"
+	}
+}

@@ -1,0 +1,17 @@
+{
+  "name": "mochaForLoop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "mocha --t 0 -- app.js"
+  },
+  "author": "Aleksandar Perc",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^0.19.2",
+    "chai": "^4.2.0",
+    "cheerio": "^1.0.0-rc.3",
+    "mocha": "^7.1.1"
+  }
+}
